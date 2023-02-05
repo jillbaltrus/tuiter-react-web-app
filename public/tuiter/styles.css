@@ -1,0 +1,25 @@
+.wd-grid-row {
+  clear: both;
+}
+
+.wd-float-left {
+  float: left;
+}
+
+.wd-float-right {
+  float: right;
+}
+
+.wd-bg-color-black {
+  background-color: black;
+}
+
+.wd-page-container {
+  border: rgb(47, 51, 54) 1px solid;
+  width: 598px;
+}
+
+.wd-pos-relative-nudge-right {
+  position: relative;
+  left: 16px;
+}

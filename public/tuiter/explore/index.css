@@ -1,0 +1,61 @@
+.wd-search-tuiter {
+  background-color: rgb(47, 51, 54);
+  border-radius: 50px;
+  border-color: rgb(47, 51, 54);
+  width: 75%;
+  height: 30px;
+  padding-left: 25px;
+  padding-top: 5px;
+  margin: 10px 12px 10px 17px;
+  color: white;
+}
+
+.wd-gear-icon {
+  margin-top: 17px;
+  margin-right: 12px;
+}
+
+.wd-hyperlink {
+  color: rgb(110, 118, 125);
+  padding: 16px;
+  font-size: 15px;
+}
+
+.wd-hyperlink-highlighted {
+  color: rgb(29,161,242);
+  border-bottom: rgb(29,161,242) 3px solid;
+}
+
+.wd-tuit-title {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  padding-left: 16px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.wd-tuit-topic {
+  color: rgb(110, 118, 125);
+  font-size: 13px;
+  padding-left: 16px;
+  padding-top: 20px;
+}
+
+.wd-tuit-number-tuits {
+  color: rgb(110, 118, 125);
+  font-size: 13px;
+  padding-left: 16px;
+  margin-bottom: 6px;
+}
+
+.wd-tuit-container {
+  height: 125px;
+  border: rgb(47, 51, 54) 1px solid;
+}
+
+.wd-tuit-pic {
+  margin-right: 16px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
