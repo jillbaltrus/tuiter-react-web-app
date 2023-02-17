@@ -6,10 +6,6 @@
   float: right;
 }
 
-.fs-50 {
-  font-size: 50px;
-}
-
 .height-60 {
   height: 60px;
 }
@@ -37,7 +33,7 @@
 }
 
 .bottom-5-left-5 {
-  bottom: 5px;
+  bottom: 0;
   left: 5px;
 }
 
@@ -47,21 +43,9 @@
 }
 
 .color-grey {
-  color: dimgray;
+  color: grey;
 }
 
 .rounded-corners {
   border-radius: 15px;
-}
-
-.cyborg-grey-background {
-  background: #222;
-}
-
-.color-cyborg-grey {
-  color: #222;
-}
-
-.light-grey-border {
-  border-top: 1px solid dimgray;
 }
