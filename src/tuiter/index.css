@@ -51,7 +51,7 @@
 }
 
 .rounded-corners {
-  border-radius: 15px;
+  border-radius: 50px;
 }
 
 .cyborg-grey-background {
@@ -64,4 +64,33 @@
 
 .light-grey-border {
   border-top: 1px solid dimgray;
+}
+
+.wd-tabs li {
+  display: inline;
+}
+.wd-tabs {
+  padding-left: 0px;
+}
+.wd-selected {
+  border-bottom: 2px blue solid;
+  padding-bottom: 20px;
+}
+.wd-nudge-up {
+  bottom: 18px;
+  left: 25px;
+}
+.wd-bottom-2 {
+  bottom: 2px;
+}
+.wd-bottom-4 {
+  bottom: 4px;
+}
+
+.x-lg-text {
+  font-size: x-large;
+}
+
+.border-radius-50 {
+  border-radius: 50px;
 }
