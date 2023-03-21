@@ -9,12 +9,13 @@ function App() {
       <BrowserRouter>
         <div className="container">
           <Routes>
-            <Route index
-                   element={<Labs/>}/>
+            <Route path="/*" element={<Labs/>}/>
             <Route path="/hello"
                    element={<HelloWorld/>}/>
             <Route path="/tuiter"
-                   element={<Tuiter/>}/>
+                   element={<Tuiter active={'explore'}/>}/>
+            <Route path="/home"
+                   element={<Tuiter active={'home'}/>}/>
           </Routes>
         </div>
       </BrowserRouter>
